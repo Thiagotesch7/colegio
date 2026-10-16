@@ -1,0 +1,213 @@
+﻿Diagnose log at 2026-10-16T14:31:20Z
+
+AppPath: C:\Program Files\Git\mingw64\bin\git-credential-manager.exe
+InstallDir: C:\Program Files\Git\mingw64\bin\
+Version: 2.9.1+6760f0ef069c994aa2bb1d703fb374986ee82a3e
+
+------------
+Diagnostic: Environment
+Skipped: False
+Success: True
+Exception: None
+Log:
+OSType: Windows
+OSVersion: 10.0 (build 26200)
+Reading environment variables... OK
+ Variables:
+SESSIONNAME=Console
+ProgramFiles(x86)=C:\Program Files (x86)
+MSYSTEM=MINGW64
+ProgramW6432=C:\Program Files
+ChocolateyInstall=C:\ProgramData\chocolatey
+PROCESSOR_IDENTIFIER=Intel64 Family 6 Model 151 Stepping 5, GenuineIntel
+VBOX_MSI_INSTALL_PATH=C:\Program Files\Oracle\VirtualBox\
+TMP=C:\Users\PET015~1.002\AppData\Local\Temp
+PROCESSOR_ARCHITECTURE=AMD64
+VSCODE_GIT_ASKPASS_MAIN=c:\Users\PET0156071.EDUCA.002\AppData\Roaming\Code\User\globalStorage\vscode.git\askpass\70789581cae28aa7\askpass-main.js
+Path=C:/Program Files/Git/mingw64/libexec/git-core;C:\Program Files\Git\mingw64\bin;C:\Program Files\Git\usr\bin;C:\Users\PET0156071.EDUCA.002\bin;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Siemens\Automation\Simatic OAM\bin;C:\Program Files (x86)\Siemens\Automation\SCADA-RT_V11\WinCC\Bin;C:\Program Files (x86)\Common Files\Siemens\Bin;C:\Program Files (x86)\Common Files\Siemens\CommonArchiving;C:\Program Files (x86)\Common Files\Siemens\ACE\Bin;C:\Program Files (x86)\Siemens\Step7\S7bin;C:\Program Files\Python313\Scripts\;C:\Program Files\Python313\;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft VS Code\bin;C:\Program Files\PKWARE\pkzipc;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\140\DTS\Binn\;C:\Program Files (x86)\Siemens\Automation\SCADA-RT_V11\WinCC\Interfaces;C:\Program Files (x86)\Common Files\Siemens\;C:\Program Files (x86)\Common Files\Siemens\Interfaces;C:\Program Files (x86)\Common Files\Siemens\ACE\Interfaces;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Program Files\nodejs\;C:\ProgramData\chocolatey\bin;C:\Program Files\Git\cmd;C:\Users\PET0156071.EDUCA.002\AppData\Local\Microsoft\WindowsApps;;c:\Users\PET0156071.EDUCA.002\.vscode\extensions\vscjava.vscode-java-debug-0.60.0\bundled\scripts\noConfigScripts
+HOMEPATH=\Users\PET0156071.EDUCA.002
+USERPROFILE=C:\Users\PET0156071.EDUCA.002
+VSCODE_GIT_IPC_HANDLE=\\.\pipe\vscode-git-ccfa55baa5-sock
+PROCESSOR_REVISION=9705
+TEMP=C:\Users\PET015~1.002\AppData\Local\Temp
+FPS_BROWSER_APP_PROFILE_STRING=Internet Explorer
+FPS_BROWSER_USER_PROFILE_STRING=Default
+LOGONSERVER=\\SEN590656
+TERM=xterm-256color
+USERNAME=PET0156071
+SystemRoot=C:\Windows
+CHROME_CRASHPAD_PIPE_NAME=\\.\pipe\crashpad_26856_PTIUZCSTSUBUGMTB
+GIT_EXEC_PATH=C:/Program Files/Git/mingw64/libexec/git-core
+PLINK_PROTOCOL=ssh
+USERDNSDOMAIN=educa.sf
+OneDrive=C:\Users\PET0156071.EDUCA.002\OneDrive
+USERDOMAIN_ROAMINGPROFILE=EDUCA
+VSCODE_NONCE=5c8f708f-3108-4653-a46d-7fc6345946e5
+CommonProgramFiles=C:\Program Files\Common Files
+ZES_ENABLE_SYSMAN=1
+VSCODE_JAVA_EXEC=c:\Users\PET0156071.EDUCA.002\.vscode\extensions\redhat.java-1.57.0-win32-x64\jre\25.0.4.1-win32-x86_64\bin\java
+ProgramData=C:\ProgramData
+LANG=en_US.UTF-8
+EFC_20308_4126798990=0
+COMPUTERNAME=SEN590656
+VSCODE_INJECTION=1
+ALLUSERSPROFILE=C:\ProgramData
+CommonProgramW6432=C:\Program Files\Common Files
+Simatic_OAM_DATA=C:\ProgramData\Siemens\Automation\Simatic OAM
+VSCODE_JDWP_ADAPTER_ENDPOINTS=c:\Users\PET0156071.EDUCA.002\AppData\Roaming\Code\User\workspaceStorage\9c7ba6e6ee9e9c7436990377ba5d097b\vscjava.vscode-java-debug\.noConfigDebugAdapterEndpoints\endpoint.txt
+VSCODE_A11Y_MODE=0
+PT8HOME=C:\Program Files\Cisco Packet Tracer 8.2.2
+S7TMP=C:\Program Files (x86)\Siemens\Step7\S7Tmp
+DriverData=C:\Windows\System32\Drivers\DriverData
+HOMEDRIVE=C:
+windir=C:\Windows
+GIT_TRACE2_PARENT_SID=45f82232-bfa9-4925-b18e-934518ed3a8b
+SystemDrive=C:
+NUMBER_OF_PROCESSORS=12
+OS=Windows_NT
+AutInstLog=C:\ProgramData\Siemens\Automation\Logfiles\Setup\
+ProgramFiles=C:\Program Files
+ComSpec=C:\Windows\system32\cmd.exe
+VSCODE_STABLE=1
+PATHEXT=.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW;.CPL
+HOME=C:\Users\PET0156071.EDUCA.002
+PSModulePath=C:\Users\PET0156071.EDUCA.002\Documents\WindowsPowerShell\Modules;C:\Program Files\WindowsPowerShell\Modules;C:\Windows\system32\WindowsPowerShell\v1.0\Modules;C:\Program Files (x86)\Microsoft SQL Server\140\Tools\PowerShell\Modules\
+GIT_TERMINAL_PROMPT=1
+TMPDIR=C:\Users\PET015~1.002\AppData\Local\Temp
+APPDATA=C:\Users\PET0156071.EDUCA.002\AppData\Roaming
+USERDOMAIN=EDUCA
+PROCESSOR_LEVEL=6
+LOCALAPPDATA=C:\Users\PET0156071.EDUCA.002\AppData\Local
+VSCODE_GIT_ASKPASS_NODE=C:\Program Files\Microsoft VS Code\Code.exe
+EFC_20308_1592913036=1
+TERM_PROGRAM_VERSION=1.141.2
+CommonProgramFiles(x86)=C:\Program Files (x86)\Common Files
+Simatic_OAM=C:\Program Files\Common Files\Siemens\Automation\Simatic OAM
+COLORTERM=truecolor
+PUBLIC=C:\Users\Public
+TERM_PROGRAM=vscode
+VSCODE_GIT_ASKPASS_EXTRA_ARGS=
+
+
+------------
+Diagnostic: File system
+Skipped: False
+Success: True
+Exception: None
+Log:
+Temporary directory is 'C:\Users\PET0156071.EDUCA.002\AppData\Local\Temp\'...
+Checking basic file I/O...
+Writing to temporary file 'C:\Users\PET0156071.EDUCA.002\AppData\Local\Temp\91b14773a94d9d557c070319'... OK
+Reading from temporary file 'C:\Users\PET0156071.EDUCA.002\AppData\Local\Temp\91b14773a94d9d557c070319'... OK
+Deleting temporary file 'C:\Users\PET0156071.EDUCA.002\AppData\Local\Temp\91b14773a94d9d557c070319'... OK
+Testing IFileSystem instance...
+UserHomePath: C:\Users\PET0156071.EDUCA.002
+UserDataDirectoryPath: C:\Users\PET0156071.EDUCA.002\.gcm
+GetCurrentDirectory(): C:\Users\PET0156071.EDUCA.002\Desktop\colegio
+
+------------
+Diagnostic: Networking
+Skipped: False
+Success: True
+Exception: None
+Log:
+Checking networking and HTTP stack...
+Creating HTTP client... OK
+IsNetworkAvailable: True
+Sending HEAD request to http://example.com... OK
+Sending HEAD request to https://example.com... OK
+Acquiring free TCP port... OK
+Testing local HTTP loopback connections...
+Creating new HTTP listener for http://localhost:55349/... OK
+Waiting for loopback connection... OK
+Writing response... OK
+Waiting for response data... OK
+Loopback connection data OK
+
+------------
+Diagnostic: Git
+Skipped: False
+Success: True
+Exception: None
+Log:
+Getting Git version... OK
+Git version is '2.55.0.windows.5'
+Locating current repository...Git repository at 'C:/Users/PET0156071.EDUCA.002/Desktop/colegio/.git'
+ OK
+Listing all Git configuration... OK
+Git configuration:
+file:C:/Program Files/Git/etc/gitconfig	diff.astextplain.textconv=astextplain
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.clean=git-lfs clean -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.smudge=git-lfs smudge -- %f
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.process=git-lfs filter-process
+file:C:/Program Files/Git/etc/gitconfig	filter.lfs.required=true
+file:C:/Program Files/Git/etc/gitconfig	http.sslbackend=schannel
+file:C:/Program Files/Git/etc/gitconfig	core.autocrlf=true
+file:C:/Program Files/Git/etc/gitconfig	core.fscache=true
+file:C:/Program Files/Git/etc/gitconfig	core.symlinks=false
+file:C:/Program Files/Git/etc/gitconfig	pull.rebase=false
+file:C:/Program Files/Git/etc/gitconfig	credential.helper=manager
+file:C:/Program Files/Git/etc/gitconfig	credential.https://dev.azure.com.usehttppath=true
+file:C:/Program Files/Git/etc/gitconfig	init.defaultbranch=master
+file:C:/Users/PET0156071.EDUCA.002/.gitconfig	user.name=Thiagotesch7
+file:C:/Users/PET0156071.EDUCA.002/.gitconfig	user.email=thiagotesch7@gmail.com
+file:C:/Users/PET0156071.EDUCA.002/.gitconfig	credential.helper=manager
+file:.git/config	core.repositoryformatversion=0
+file:.git/config	core.filemode=false
+file:.git/config	core.bare=false
+file:.git/config	core.logallrefupdates=true
+file:.git/config	core.symlinks=false
+file:.git/config	core.ignorecase=true
+file:.git/config	remote.upstream.url=https://github.com/Thiagotesch7/colegio.git
+file:.git/config	remote.upstream.fetch=+refs/heads/*:refs/remotes/upstream/*
+file:.git/config	branch.main.remote=origin
+file:.git/config	branch.main.vscode-merge-base=origin/main
+file:.git/config	branch.main.merge=refs/heads/main
+file:.git/config	remote.origin.url=https://github.com/Thiagotesch7/colegio.git
+file:.git/config	remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+
+
+------------
+Diagnostic: Credential storage
+Skipped: False
+Success: True
+Exception: None
+Log:
+ICredentialStore instance is of type: CredentialStore
+Writing test credential... OK
+Reading test credential... OK
+Deleting test credential... OK
+
+------------
+Diagnostic: Microsoft authentication (AAD/MSA)
+Skipped: False
+Success: True
+Exception: None
+Log:
+Broker is not enabled.
+Gathering MSAL token cache data... OK
+CacheDirectory: C:\Users\PET0156071.EDUCA.002\AppData\Local\.IdentityService
+CacheFileName: msal.cache
+CacheFilePath: C:\Users\PET0156071.EDUCA.002\AppData\Local\.IdentityService\msal.cache
+Creating cache helper... OK
+Verifying MSAL token cache persistence... OK
+
+------------
+Diagnostic: GitHub API
+Skipped: False
+Success: False
+Exception:
+System.Net.Http.HttpRequestException: O código de status de resposta não indica êxito: 403 (rate limit exceeded).
+   em System.Net.Http.HttpResponseMessage.EnsureSuccessStatusCode()
+   em GitHub.GitHubRestApi.<GetMetaInfoAsync>d__5.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em GitHub.Diagnostics.GitHubApiDiagnostic.<RunInternalAsync>d__2.MoveNext()
+--- Fim do rastreamento de pilha do local anterior onde a exceção foi gerada ---
+   em System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   em System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   em GitCredentialManager.Diagnostics.Diagnostic.<RunAsync>d__6.MoveNext()
+Log:
+Using 'https://github.com/' as API target.
+Querying '/meta' endpoint...
